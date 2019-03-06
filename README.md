@@ -18,14 +18,55 @@ This is A section where instruction I told to user to do for the website
 
 -Searching novel with similar genre
 
--Adding glossary
+-Adding glossary,Favorite and Score.
 
 -Reporting a missing Chapter
   
 ## User Description
 The user is doctor Trainee from Hangtuah University,whose name is Dennis. He is proffecient in english and like to browsing and read novel in his spare time but often didn't like how slow the chapter translation of certain novel.He also often go to the source of novel and read it raw with google translate.
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
+```
+Me   : Hey,le Friend udah tau LNMTL belum ?
+User : LNMTL Apaan sih.
+Me   : Website untuk machine translation ,taulah machine translation itu apa.
+User :Emang disana udah berapa chapter ?100?200?
+Me   :Puny number itumah,Udah 3k.
+User :Sek lagi tak google ,Ah Ketemu.
+Me   :Coba Cari Novel yang kamu penasaran.
+User :Sek searchnya ini aneh judulnya ada 2 bahasa,cari berdasarkan bahasa yang mana.
+Me   :Coba cari berdasarkan inggris keyword aja.
+User : Ok Deh.sek iki ketik keluar judul bahasa Chinese.Search nya bodoh bener.
+Me   :Selesain kata dulu,walaupun ada yang mirip judulnya tapi harus ketemu.
+User :Ok,Ok udah aku masuk ke halamanya.(halaman website https://lnmtl.com/novel/against-the-gods)
+Me   :Sep,coba baca chapter 1 untuk refenresi dulu ,apakah kamu ngerti atau gk.
+User :hmm Ngerti sih,masih layak dibaca,sek coba aku cek chapter terakhirnya.lah kok hanya untuk Registered User.
+Me   :Daftar Id dulu ,gampang kok. coba aja klik Register di atas.
+Menunjukkan Tombol Register di atas.
+User :Lah,ini websitenya minta Gmail supaya tidak terjadi Error semacamnya ,aku bingung dah.
+Me   :Coba Daftar deh,bisa kok.
+Setelah mendaftar dan logging dengan Id yang telah dibuat.
+User :Emailnya lama bener,masa nunggu 3 hari untuk pembuatan dan redirectnya ke website salah lagi.
+Me   : Emang gitu makanya di rekomendasikan Pake Gmail,coba baca chapternya deh.
+User : Aku udah coba,Layak dibacalah,tapi ada beberapa kata gk pas translationnya bisa gk diganti
+Me   : Bisa,Ni coba add glossary di halaman utama novelnya(menunjukkan ke tombol glossari di samping kanan)
+User membuka glossary https://lnmtl.com/termProposition/create?novel_id=1&type=create
+User : Lah ,Ni glossary butuh chinese rawnya ,aku gk ngerti bahasa chinannya tapi aku sebenerna ngerti term seharusnya dari translation         yang lebih baik.
+Me   :Iy ini jelek website disininya.Kalau bisa pun kadang kadang tak muncul karena  halaman glossary hanya bisa di cek di tab glossary :https://lnmtl.com/term
+User :Y sudah aku gk usah ganti terlalu merepotkan. terus ini gimana tambah nilai atau kasih review.
+Me   :Gk bisa kasih Review cuma nambah nilai bisa.
+User :Tombol ini y
+User menunjuk pada nilai positive kemudian click.
+Me   :Sama coba sistem favorit biar Id mengingat dan memfollow novel tersebut sehingga tidak perlu ketinggalan berita dari translasi tersebut
+User :Sudah aku add,ni coba liat untuk pertama kalinya sistemnya benar.Sama ini search novel yang similar dengan novel kubaca,kok aneh 
+      hanya bisa satu genre tidak bisa multiple genre.
+Me   :Hanya bisa sorting berdasrkan popularitas dan waktu. Ruang lingkup sortnya sempit
+User :Y sudahlah,terus bila ada chapter yang missing gimana ngisinya.
+Me   :Gk bisa kamu ,Id butuh 300 point minim untuk report missing chapter..
+User :ZZZzz y udah deh thanks untuk websitenya aku mau baca lanjutan ceritanya
+Me   :sama sama untuk interviewnya Hehehe
+```
+
+
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
