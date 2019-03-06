@@ -4,18 +4,26 @@ LNMTL is a website about Machine Translation of Webnovel(digital Novel). This is
 
 Even thought many user praised this website as best website for reading novel but some of them is disagree because of the bad Interface not because the bad or limited content inside of the website.Because of this many user tend to read the raw from other site with google translate instead of reading from this website which have better translation from google translate.
 ## Instruction Script
-This is A section where instruction I told to user to do for the website.
+This is A section where instruction I told to user to do for the website
+
 -Try to understand what is Lnmtl.
+
 -Try to search for novel
+
 -Try to read the first chapter novel and the latest.
+
 -Register an Id
+
 -Logging with an ID  that just created
+
 -Searching novel with similar genre
+
 -Adding glossary
+
 -Reporting a missing Chapter
   
 ## User Description
-
+The user is doctor Trainee from Hangtuah University,whose name is Dennis. He is proffecient in english and like to browsing and read novel in his spare time but often didn't like how slow the chapter translation of certain novel.He also often go to the source of novel and read it raw with google translate.
 ## Transcript
 Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
 ## Models and Annotations
