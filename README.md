@@ -5,14 +5,14 @@ LNMTL is a website about Machine Translation of Webnovel(digital Novel). This is
 Even thought many user praised this website as best website for reading novel but some of them is disagree because of the bad Interface not because the bad or limited content inside of the website.Because of this many user tend to read the raw from other site with google translate instead of reading from this website which have better translation from google translate.
 ## Instruction Script
 This is A section where instruction I told to user to do for the website.
-  -Try to understand what is Lnmtl.
-  -Try to search for novel
-  -Try to read the first chapter novel and the latest.
-  -Register an Id
-  -Logging with an ID  that just created
-  -Searching novel with similar genre
-  -Adding glossary
-  -Reporting a missing Chapter
+-Try to understand what is Lnmtl.
+-Try to search for novel
+-Try to read the first chapter novel and the latest.
+-Register an Id
+-Logging with an ID  that just created
+-Searching novel with similar genre
+-Adding glossary
+-Reporting a missing Chapter
   
 ## User Description
 
