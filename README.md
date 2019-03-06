@@ -69,7 +69,8 @@ Me   :sama sama untuk interviewnya Hehehe
 
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![It was shown at this image that google email is supported and didn't support other email](https://github.com/hci-a-if-its-2019/assignment-1-DennasTrue/blob/master/Capture2.PNG)
+![At this picture ,there is no sort by genre only sort by the date when novel comes out or the novel is finished or not](https://github.com/hci-a-if-its-2019/assignment-1-DennasTrue/blob/master/Capture3.PNG)
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
