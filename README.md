@@ -77,3 +77,13 @@ Me   :sama sama untuk interviewnya Hehehe
 ![Cultural Model and Annotation](https://github.com/hci-a-if-its-2019/assignment-1-DennasTrue/blob/master/Untitled1.png)
 ## Do's and Don't's
 Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+
+# Remarks
+> * Thanks for working hard finishing this assignment.
+> * In my opinion, `Try to understand what is Lnmtl` is not part of CI's instructions, because it has nothing to do with the UI observed in your CI.
+> * The `Transcript` should be supplemented with line-numbers or time-codes. These things will help us to track any breakdowns/barriers annotated in the `Models` back to the `Transcript`. Moreover, the breakdowns/barriers annotated in the `Models` should have reference line-numbers or time-codes on their annotations.
+> * Your work apparently lack of `Do's and Don't's` section. Basically, this section is your suggestions to the legacy UI: What should be done and what should be avoided based on the CI you've completed.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 1            | 20               | 0               | 77,5               | 79,5       | 77,9  |
